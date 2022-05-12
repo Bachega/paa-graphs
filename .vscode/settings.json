@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "edgelist.h": "c",
+        "graph.h": "c",
+        "filehandler.h": "c",
+        "stdio.h": "c"
+    }
+}
